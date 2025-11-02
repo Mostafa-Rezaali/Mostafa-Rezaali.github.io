@@ -11,19 +11,12 @@ redirect_from:
 
 ## Education
 
-**PhD in Geography** (Expected 2027)  
+**PhD in Geography** (Expected 2026)  
 University of Florida, Gainesville, Florida  
 *Entered: Fall 2022*  
 - Concentration: Earth System Science, Sustainability, and Global Environmental Change
 - Research Focus: Climate extremes, heat waves, and machine learning applications in climate science
 - Advisor: Dr. David Keellings
-
-**M.S. in Civil and Environmental Engineering** (2018)  
-Qom University of Technology, Iran  
-- Focus: Environmental Engineering and Climate Science
-
-**B.S. in Civil and Environmental Engineering** (2016)  
-Islamic Azad University, Khomeini Shahr, Iran
 
 ---
 
