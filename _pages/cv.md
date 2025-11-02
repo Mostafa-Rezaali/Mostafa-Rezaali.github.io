@@ -162,4 +162,4 @@ Available upon request
 
 **Last Updated:** November 2025
 
-[Download PDF Version](#) (You can add a PDF link later)
+[Download PDF Version](https://github.com/Mostafa-Rezaali/Mostafa-Rezaali.github.io/blob/main/Mostafa_Rezaali_CV.pdf)
