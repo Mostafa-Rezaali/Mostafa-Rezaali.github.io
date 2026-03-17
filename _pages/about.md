@@ -44,3 +44,4 @@ Academic Background
 Contact
 ======
 For collaboration opportunities or questions about my research, please feel free to reach out via email or through any of the links in the sidebar.
+<meta name="google-site-verification" content="uyHENyzO2pSv7Qf2g4WnQKh8emlbYWkJkmd1p7Bz2o0" />
