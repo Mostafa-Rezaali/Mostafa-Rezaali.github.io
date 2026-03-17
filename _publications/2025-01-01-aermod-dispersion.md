@@ -6,8 +6,8 @@ permalink: /publication/2025-aermod-dispersion
 excerpt: 'Investigation of two popular Gaussian pollution dispersion models for analyzing their behavior under specific conditions with point and line sources.'
 date: 2025-01-01
 venue: 'Environmental Science and Pollution Research'
-slidesurl: # Add link to slides if available
-paperurl: # Add DOI when available
+slidesurl:
+paperurl:
 citation: 'Rezaali, M., Fouladi-Fard, R., O&apos;Shaughnessy, P., & Karimi, A. (2025). Assessment of AERMOD and ADMS for NOx dispersion modeling with a combination of line and point sources. <i>Environmental Science and Pollution Research</i>.'
 ---
 
