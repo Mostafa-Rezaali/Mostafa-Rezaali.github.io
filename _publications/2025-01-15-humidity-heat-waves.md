@@ -6,7 +6,7 @@ permalink: /publication/2025-humidity-heat-waves
 excerpt: 'This study introduces an enhancement to the existing Heat Severity and Coverage Index that incorporates humidity to provide a more robust assessment of heat wave severity.'
 date: 2025-01-15
 venue: 'Science of the Total Environment'
-slidesurl: # Add link to slides if available
+slidesurl:
 paperurl: 'https://doi.org/10.1016/j.scitotenv.2024.178397'
 citation: 'Narayanan, A., Rezaali, M., Bunting, E., & Keellings, D. (2025). It&apos;s getting hot in here: Spatial impact of humidity on heat wave severity in the United States. <i>Science of the Total Environment</i>, 963, 178397.'
 ---
