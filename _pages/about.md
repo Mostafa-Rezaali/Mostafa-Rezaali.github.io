@@ -1,8 +1,9 @@
 ---
 permalink: /
 title: "About Me"
+description: "PhD Candidate at the University of Florida researching heat wave prediction and climate extremes using machine learning and numerical climate models."
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -41,7 +42,10 @@ Academic Background
   - Concentration: Earth System Science, Sustainability, and Global Environmental Change
   - Research Area: Climate Extremes and Earth System Dynamics
 
+Fellowships & Awards
+======
+- **NSF LEAP Summer Momentum Fellowship** (2025) — 10-week research residency at Columbia University focusing on climate data science
+
 Contact
 ======
 For collaboration opportunities or questions about my research, please feel free to reach out via email or through any of the links in the sidebar.
-<meta name="google-site-verification" content="uyHENyzO2pSv7Qf2g4WnQKh8emlbYWkJkmd1p7Bz2o0" />
